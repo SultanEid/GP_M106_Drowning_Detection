@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855012738419",
+    "project_id": "tawq-app",
+    "storage_bucket": "tawq-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855012738419:android:341950102d6d2131bef106",
+        "android_client_info": {
+          "package_name": "com.gp.tawq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSxjPABE5AV7N7XmxDSHWFhya5KcfuDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+package com.gp.tawq
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

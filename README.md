@@ -1,8 +1,7 @@
-# GP_M106_Drowning_Detection
-A Machine learning model for detecting drowning in a swimming pool
+# TAWQ
 
-new Edit for commit
-for abdullah 
-abdullahmt 
-fouad
-ahmed
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
